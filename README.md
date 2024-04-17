@@ -1,5 +1,5 @@
 # SQL---Car-Workshop
-Data Base was created by 3 users
+Data Base was created by users:
 @Kaszumka
 @olgak02
 @julianblyskal
